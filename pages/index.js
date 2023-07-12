@@ -1,4 +1,4 @@
 function Home() {
-  return <p>TESTE</p>;
+  return <h1>Git</h1>;
 }
 export default Home;
