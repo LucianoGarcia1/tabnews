@@ -1,4 +1,4 @@
 function Home() {
-  return <p>Obrigado pelo curso Gabriel 😉</p>;
+  return <p>TESTE</p>;
 }
 export default Home;

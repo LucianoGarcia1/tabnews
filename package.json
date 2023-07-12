@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
+  "author": "Luciano",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
