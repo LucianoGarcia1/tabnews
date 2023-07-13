@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Git</h1>;
+  return <h1>Git Amend</h1>;
 }
-export default Home;
+export default Home; 
